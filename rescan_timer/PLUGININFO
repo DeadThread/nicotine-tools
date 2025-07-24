@@ -1,0 +1,5 @@
+Name=Rescan Timer
+Version=1.0.0
+Author=DeadThread
+Description=Automatically rescans shared folders at specified intervals
+Min_Version=3.0.0
